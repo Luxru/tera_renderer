@@ -7,3 +7,4 @@ Run:
 cargo build --verbose --release
 ```
 
+--ARM--
